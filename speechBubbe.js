@@ -42,7 +42,7 @@ const cryptoBubble = [
 ]
 
 const nimiqBubble = [
-  "NIM is the token of the Nimiq Blockchain. Nimiq is a browser-based blockchain designed for simplicity and ease of use.",
+  "NIM is the coin of the Nimiq Blockchain. Nimiq is a browser-based blockchain designed for simplicity and ease of use.",
   "Nimiq mainnet went live on April 14. The first pre-mined 720 blocks were 'burned' to protect against rebranching and forking.",
   "Nimiq is an Inuit word for an object or force that binds things together.",
   "Nimiq will have a total supply or 21 billion tokens divisible by smallest units called satoshi, identical to Bitcoin.",
